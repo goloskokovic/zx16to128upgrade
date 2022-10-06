@@ -1,0 +1,80 @@
+EQN2JED - Boolean Equations to JEDEC file assembler (Version V024)
+Copyright (c) National Semiconductor Corporation 1990,1991
+
+Document file for C:\DOCUME~1\PC\Plocha\OPAL\ZX48TO~1.EQN
+Device: 20V8
+
+$LABELS 24 MREQ ZX512 A1 WR DIS128 BANK2 A5 BANK0 BANK4 BANK3 BANK1 GND A15
+ A14 ROMCS CLK7FFD SA18 SA17 RAMCS SA16 SA15 SA14 IORQ VCC
+
+
+Pin   Label               Type
+---   -----               ----
+1     MREQ                pos,com input
+2     ZX512               pos,com input
+3     A1                  pos,com input
+4     WR                  pos,com input
+5     DIS128              pos,com input
+6     BANK2               pos,com input
+7     A5                  pos,com input
+8     BANK0               pos,com input
+9     BANK4               pos,com input
+10    BANK3               pos,com input
+11    BANK1               pos,com input
+12    GND                 ground pin
+13    A15                 pos,com input
+14    A14                 pos,com input
+15    ROMCS               neg,trst,com output
+16    CLK7FFD             pos,trst,com output
+17    SA18                pos,trst,com output
+18    SA17                neg,trst,com output
+19    RAMCS               neg,trst,com output
+20    SA16                pos,trst,com output
+21    SA15                pos,trst,com output
+22    SA14                pos,trst,com output
+23    IORQ                pos,com input
+
+EQN2JED - Boolean Equations to JEDEC file assembler (Version V024)
+Copyright (c) National Semiconductor Corporation 1990,1991
+
+Device Utilization:
+
+No of dedicated inputs used               : 14/14 (100.0%)
+No of dedicated outputs used              :  2/2  (100.0%)
+No of feedbacks used as dedicated outputs :  6/6  (100.0%)
+
+		------------------------------------------
+		Pin   Label                 Terms Usage
+		------------------------------------------
+		22    SA14                  3/8   (37.5%)
+		21    SA15                  4/8   (50.0%)
+		20    SA16                  3/8   (37.5%)
+		19    RAMCS                 3/8   (37.5%)
+		18    SA17                  3/8   (37.5%)
+		17    SA18                  3/8   (37.5%)
+		16    CLK7FFD               4/8   (50.0%)
+		15    ROMCS                 3/8   (37.5%)
+		------------------------------------------
+		Total                      18/64  (28.1%)
+		------------------------------------------
+
+EQN2JED - Boolean Equations to JEDEC file assembler (Version V024)
+Copyright (c) National Semiconductor Corporation 1990,1991
+
+                            Chip diagram (DIP)
+
+                             ._____    _____.
+                             |     \__/     |
+                        MREQ |  1        24 | VCC
+                       ZX512 |  2        23 | IORQ
+                          A1 |  3        22 | SA14
+                          WR |  4        21 | SA15
+                      DIS128 |  5        20 | SA16
+                       BANK2 |  6        19 | RAMCS
+                          A5 |  7        18 | SA17
+                       BANK0 |  8        17 | SA18
+                       BANK4 |  9        16 | CLK7FFD
+                       BANK3 | 10        15 | ROMCS
+                       BANK1 | 11        14 | A14
+                         GND | 12        13 | A15
+                             |______________|
