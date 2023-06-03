@@ -18,4 +18,4 @@ With the mod from Option 2 but without the External RAM Extension, your ZX Spect
 
 Original page: https://velesoft.speccy.cz/zx/external_128kb_upgrade/index.htm
 
-Buy extension card: https://www.ebay.com/itm/125392963141
+Buy extension card: https://www.ebay.co.uk/itm/EXTERNAL-128k-RAM-UPGRADE-FOR-ZX-Spectrum-16-48k-/125712930422
