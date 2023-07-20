@@ -7,7 +7,7 @@ Option 1: on IC23 (cut and) bend the pin 1 and connect it to pin 14 (+5V).
 
 Option 2: if socketed remove all the upper memory ICs (IC15, 16, 17, 18, 19, 20, 21, 22).
 
-With the mod from Option 2 but without the External RAM Extension, your ZX Spectrum 48k will still work but as ZX Spectrum 16k. 
+With the mod from Option 1 but without the External RAM Extension, your ZX Spectrum 48k will still work but as ZX Spectrum 16k. 
 
 ![image](/Images/sch.png)
 
