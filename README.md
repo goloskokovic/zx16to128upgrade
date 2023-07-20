@@ -3,9 +3,9 @@ Upgrade ZX Spectrum 48k with 128k of RAM and play all the games that you could n
 
 In order to make that extension card work, a small modification to your ZX Spectrum 48k is required. There are two options for that:
 
-Option 1: remove all the upper memory ICs (IC15, 16, 17, 18, 19, 20, 21, 22).
+Option 1: on IC23 (cut and) bend the pin 1 and connect it to pin 14 (+5V). 
 
-Option 2: on IC23 bend the pin 1 and connect it to pin 14 (+5V). 
+Option 2: if socketed remove all the upper memory ICs (IC15, 16, 17, 18, 19, 20, 21, 22).
 
 With the mod from Option 2 but without the External RAM Extension, your ZX Spectrum 48k will still work but as ZX Spectrum 16k. 
 
