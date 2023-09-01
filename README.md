@@ -1,4 +1,4 @@
-# EXTERNAL 128k UPGRADE FOR ZX SPECTRUM 16k/48k
+# 128k RAM expansion for ZX48k
 Upgrade ZX Spectrum 48k with 128k of RAM and play all the games that you could not play before. Only the sound will stay as before, but you can always buy an extension module for sound (based on AY-3-8912 or AY-3-8910) to make it sound as ZX Spectrum 128k.
 
 In order to make the RAM expansion work, a small modification to your ZX Spectrum 48k is required:
