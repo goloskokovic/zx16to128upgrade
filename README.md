@@ -4,7 +4,7 @@ https://www.pcbway.com/project/shareproject/W219199ASS53_AY_kempston_gerber.html
 
 In order to make the RAM expansion work, a small modification to your ZX Spectrum 48k is required to disable 32k upper RAM.
 
-For Issue 2-3-4, on IC23 cut and bend pin 1 and connect it to pin 14 (+5V). For Issue 5-6 cut pin 34 (CASL) on ZX8401 and connect it's via (not the pin) to pin 40 (+5V).
+For Issue 2/3/4 connect pin 5 on IC23 (74LS32) to pin 14 (+5V). For Issue 5/6 connect pin 35 on IC27 (ZX8401) to pin 40 (+5V).
 https://spectrumcomputing.co.uk/forums/viewtopic.php?t=2616
 
 With this mod without the RAM expansion, your ZX Spectrum 48k will work as ZX Spectrum 16k. 
