@@ -5,9 +5,13 @@ In order to make the RAM expansion work, a single wire mod to your ZX Spectrum 4
 For Issue 2/3/4 connect pin 5 on IC23 (74LS32) to pin 14 (+5V). For Issue 5/6 connect pin 35 on IC27 (ZX8401) to pin 40 (+5V).
 Both mods will hold the CAS/RAS signal high so it won't reach the RAM chips.
 
-https://spectrumcomputing.co.uk/forums/viewtopic.php?t=2616
-
 <br/>
+
+Watch the video:
+
+[![Watch the video](https://img.youtube.com/vi/-c24jNaIezs/default.jpg)](https://www.youtube.com/watch?v=-c24jNaIezs&t=853s)
+
+
 
 
 ![image](/Images/CAS.png)
