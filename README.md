@@ -1,10 +1,13 @@
-# 128k RAM expansion for ZX 48k
+# 128k RAM expansion for ZX Spectrum 48k
+
+![image](/Images/rev2.jpg)
+<br/>
+
 Upgrade ZX Spectrum 48k with 128kB of RAM and play the games you couldn't play before. The sound will stay as before, but you can always build an [AY interface](https://github.com/konkotgit/KAY-Kempston-AY) to sound like ZX Spectrum 128k. No need to change the ROM.
 
 In order to make the RAM expansion work, a single wire mod to your ZX Spectrum 48k is required to disable the 32k upper RAM.
 For Issue 2/3/4 connect pin 5 on IC23 (74LS32) to pin 14 (+5V). For Issue 5/6 connect pin 35 on IC27 (ZX8401) to pin 40 (+5V).
 Both mods will hold the CAS/RAS signal high so it won't reach the RAM chips.
-
 <br/>
 
 Watch the video:
@@ -25,8 +28,6 @@ To test the RAM expansion use modified [zx-diagnostics](/testram.tap) that allow
 <br/>
 
 ![image](/Images/brd.png)
-
-![image](/Images/rev2.jpg)
 
 <br/>
 <br/>
