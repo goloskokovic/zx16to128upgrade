@@ -2,7 +2,7 @@
 
 Part list:
 
-1 x AY-3-8912 (or AY-3-8910)
+1 x AY-3-8912
 
 1 x 74LS138
 
@@ -16,7 +16,7 @@ Part list:
 
 5 x 470R resistor
 
-5 x 100nF ceramic condensator
+2 x 100nF ceramic condensator
 
 2 x 4,7uF electrolytic condensator
 
@@ -33,5 +33,3 @@ Part list:
 
 
 Original page: https://hw.speccy.cz/ayinterface.html
-
-Buy extension card: https://divide.cz/index.php?y=aycko.en
