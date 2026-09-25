@@ -26,4 +26,5 @@ Part list:
 ![image](/AY/n_AYDPS.jpg)
 
 
-Original page: https://hw.speccy.cz/ayinterface.html
+Original page:
+https://www.zxsparrow.com/speccy_hw/simple/Simple_AY_IF/Simple_AY_IF_cze.html
